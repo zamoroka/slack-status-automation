@@ -1,0 +1,32 @@
+{
+  "htmlLink": "https://www.google.com/calendar/event?eid=----",
+  "id": "---",
+  "kind": "calendar#event",
+  "created": "2024-10-22T09:07:35.000Z",
+  "summary": "Sick leave",
+  "creator": {
+    "self": true,
+    "email": "pavlo.zamoroka@----"
+  },
+  "updated": "2024-10-22T09:07:35.064Z",
+  "organizer": {
+    "email": "pavlo.zamoroka@vaimo.com",
+    "self": true
+  },
+  "iCalUID": "----@google.com",
+  "sequence": 0,
+  "etag": "\"3459176110128000\"",
+  "reminders": {
+    "useDefault": true
+  },
+  "start": {
+    "timeZone": "Europe/Kiev",
+    "dateTime": "2024-10-22T12:00:00+03:00"
+  },
+  "end": {
+    "dateTime": "2024-10-22T13:00:00+03:00",
+    "timeZone": "Europe/Kiev"
+  },
+  "eventType": "default",
+  "status": "confirmed"
+}

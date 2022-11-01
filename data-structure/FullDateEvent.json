@@ -1,0 +1,33 @@
+{
+    "creator" : {
+        "email" : "pavlo.zamoroka@----.com",
+        "self" : true
+    },
+    "summary" : "no electricity",
+    "status" : "confirmed",
+    "etag" : "----",
+    "updated" : "2022-10-31T05:55:46.460Z",
+    "end" : {
+        "date" : "2022-11-01",
+        "dateTime" : "Tue Nov 01 02:00:00 GMT+02:00 2022"
+    },
+    "kind" : "calendar#event",
+    "htmlLink" : "https://www.google.com/calendar/event?eid=----",
+    "reminders" : {
+        "useDefault" : false
+    },
+    "organizer" : {
+        "self" : true,
+        "email" : "pavlo.zamoroka@----.com"
+    },
+    "id" : "----",
+    "iCalUID" : "----@google.com",
+    "start" : {
+        "dateTime" : "Mon Oct 31 02:00:00 GMT+02:00 2022",
+        "date" : "2022-10-31"
+    },
+    "sequence" : "0.0",
+    "eventType" : "default",
+    "created" : "2022-10-31T05:55:46.000Z",
+    "transparency" : "transparent"
+}

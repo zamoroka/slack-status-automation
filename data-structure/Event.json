@@ -1,0 +1,41 @@
+{
+    "reminders" : {
+        "useDefault" : true
+    },
+    "organizer" : {
+        "email" : "unknownorganizer@calendar.google.com",
+        "displayName" : "Unknown Organizer"
+    },
+    "htmlLink" : "https://www.google.com/calendar/event?eid=----",
+    "sequence" : 0.0,
+    "status" : "confirmed",
+    "updated" : "2022-10-24T16:28:43.233Z",
+    "creator" : {
+        "email" : "pavlo.zamoroka@vaimo.com",
+        "self" : true
+    },
+    "iCalUID" : "----@google.com",
+    "etag" : "----",
+    "start" : {
+        "dateTime" : "2022-10-25T09:00:00+03:00",
+        "timeZone" : "Europe/Kiev"
+    },
+    "privateCopy" : "true",
+    "kind" : "calendar#event",
+    "id" : "----",
+    "end" : {
+        "timeZone" : "Europe/Kiev",
+        "dateTime" : "2022-10-25T10: 00: 00+03:00"
+    },
+    "eventType" : "focusTime",
+    "summary" : "hibob",
+    "created" : "2022-10-24T16: 28: 43.000Z",
+    "attendees" : [
+        {
+            "self" : true,
+            "email" : "pavlo.zamoroka@----.com",
+            "displayName" : "pavlo.zamoroka@----.com",
+            "responseStatus" : "accepted"
+        }
+    ]
+}
